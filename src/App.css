@@ -1,0 +1,10 @@
+.App {
+	margin: 0 aotu;
+	padding: 0;
+  text-align: left;
+}
+.title{
+	width: 100vw;
+	height: 8vh;
+	background-color: red;
+}
